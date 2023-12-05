@@ -44,7 +44,7 @@ const Header = () => {
           </ul>
           <AiOutlineClose
             size={35}
-            className="absolute top-14 right-12"
+            className="absolute top-6 right-4 sm:top-12 sm:right-10"
             onClick={handleHideMenu}
           />
         </div>
