@@ -8,7 +8,7 @@ function App() {
   return (
     <main
       className="sm:p-6 md:p-12 lg:p-16 gap-3 xl:p-20 md:grid"
-      style={{ gridTemplateColumns: ".25fr .75fr" }}
+      style={{ gridTemplateColumns: ".2fr .8fr" }}
     >
       <Header />
       {/*Projects list*/}
